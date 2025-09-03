@@ -27,13 +27,13 @@ Metasploit (replication RCE)
 Custom rogue-server PoC  
 tshark/Wireshark for traffic inspection  
 
-🧪 Attack Philosophy
+# 🧪 Attack Philosophy
 Manual attacks only  
 No “auto-exploit” one-click toys  
 Start from PONG, end with shell  
 Emphasis on chaining: write → file → execution  
 
-❤️ Author
+# ❤️ Author
 Crafted by @DamBasement  
 Born out of frustration, refined by obsession.
 
