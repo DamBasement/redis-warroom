@@ -1,4 +1,4 @@
-# 🟥 Redis — Pentest Theory Notes
+# 🟥 Redis — Theory & Attack Surface
 
 ## 1. What is Redis?
 - **Redis = REmote DIctionary Server**
