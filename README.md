@@ -1,6 +1,5 @@
 # 🧨 DB-warROOOOOOM
 
-**No auth. No mercy.**  
 This is my war log for **database exploitation**.
 
 <div align="center">
